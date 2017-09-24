@@ -15,6 +15,9 @@ npm install -g create-react-native-app
 create-react-app naming
 create-react-native-app naming
 
+빌드생성
+npm run huild
+
 React 란?
 
 1. JSX 문법 -> HTML과 비슷한 문법을 가지고 있다.
